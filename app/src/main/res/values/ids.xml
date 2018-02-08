@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="SearchButton" type="id">Search Button</item>
+    <item name="Artist_adapter" type="id">Artist</item>
+    <item name="Date_adapter" type="id">Date</item>
+    <item name="ListView_music" type="id">musicListview</item>
+    <item name="adapter_track" type="id">track</item>
+    <item name="TrackId_details" type="id">TackId</item>
+    <item name="Genere_id" type="id">genreid</item>
+    <item name="Artist_id" type="id">artistid</item>
+    <item name="Album_id" type="id">album</item>
+    <item name="album_priceid" type="id">albumprice</item>
+    <item name="tackPrice_id" type="id">tarckprice</item>
+    <item name="musicdeatilsimage" type="id">imageid</item>
+    <item name="searchId" type="id">searchId</item>
+    <item name="limitId" type="id">limitid</item>
+</resources>

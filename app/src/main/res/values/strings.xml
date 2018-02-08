@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="price_id">Price</string>
+    <string name="Date_id">Date</string>
+    <string name="SortBy">Sort by:</string>
+    <string name="Limit_id">Limit:</string>
+    <string name="Search_id">Search</string>
+    <string name="Reset_id">Reset</string>
+    <string name="title_activity_display_details">DisplayDetails</string>
+    <string name="Track_Description">Track:</string>
+    <string name="Genre_description">Genre</string>
+    <string name="Artist">Artist:</string>
+    <string name="Album">Album:</string>
+    <string name="TrackPrice">Track Price:</string>
+    <string name="AlbumPrice">Album Price</string>
+    <string name="Finish">Finish</string>
+</resources>
